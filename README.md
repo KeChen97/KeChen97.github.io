@@ -34,7 +34,7 @@ page2 About Me
 4. A JS function invoking Google Firebase analytics for monitoring website traffic.
 
 # How to install
-1. I use Visual Code Studio as the IDE to modify contents of the codes, including HTML, CSS and JS.
+1. I use [Visual Code Studio](https://code.visualstudio.com/) as the IDE to modify contents of the codes, including HTML, CSS and JS.
 2. Node.js is required. Install by running `npm install -g npm` in the command line.
 3. Use [Bootstrap](https://getbootstrap.com/docs/5.2/layout/grid/) to generate the grid and css class 
 
