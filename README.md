@@ -10,8 +10,9 @@ Project objective:
  [Link to homepage](https://kechen97.github.io/index.html)
  
 # Link to slides and demo
- [Link to slide](https://docs.google.com/presentation/d/1hmAwYJ5G1b7iMnEYTZz23uTmj765LbZn9ve_cj-rGyk/edit#slide=id.p)
- [Link to video]
+[Link to slide](https://docs.google.com/presentation/d/1hmAwYJ5G1b7iMnEYTZz23uTmj765LbZn9ve_cj-rGyk/edit#slide=id.p)
+
+[Link to demo](https://drive.google.com/file/d/1UdvWWbNM_7vOw8VKxI83YPH6yRDSLGPA/view?usp=sharing)
  
           
 # Screenshot
