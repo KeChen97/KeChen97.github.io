@@ -23,9 +23,13 @@ Project objective:
           
 # Screenshot
 page1 Homepage:
-<img width="1428" alt="Screenshot" src="https://github.com/KeChen97/KeChen97.github.io/blob/main/Screenshots/screenshot.png">
+
+<img width="500" alt="Screenshot" src="https://github.com/KeChen97/KeChen97.github.io/blob/main/Screenshots/screenshot.png">
+
 page2 About Me
-<img width="1428" alt="Screenshot" src="https://github.com/KeChen97/KeChen97.github.io/blob/main/Screenshots/screenshot2.png">
+
+<img width="500" alt="Screenshot" src="https://github.com/KeChen97/KeChen97.github.io/blob/main/Screenshots/screenshot2.png">
+
 
 # What I did
 1. At least 2 html pages with different URLs
