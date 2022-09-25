@@ -9,10 +9,12 @@ Project objective:
 # Author's HomePage
  [Link to homepage](https://kechen97.github.io/index.html)
  
-# Link to slides and demo
+# Link
 [Link to slide](https://docs.google.com/presentation/d/1hmAwYJ5G1b7iMnEYTZz23uTmj765LbZn9ve_cj-rGyk/edit#slide=id.p)
 
 [Link to demo](https://drive.google.com/file/d/1UdvWWbNM_7vOw8VKxI83YPH6yRDSLGPA/view?usp=sharing)
+
+[Link to Class Page](https://johnguerra.co/classes/webDevelopment_fall_2022/)
 
  
 # Design Document
@@ -25,17 +27,19 @@ page1 Homepage:
 page2 About Me
 <img width="1428" alt="Screenshot" src="https://github.com/KeChen97/KeChen97.github.io/blob/main/Screenshots/screenshot2.png">
 
-
-# Tech Requirements
-A browser like Chrome, Safari, etc..
-
 # What I did
 1. At least 2 html pages with different URLs
 2. W3C Compliant without error throw
 3. Utilize grid by Bootstrap 5+
 4. A JS function invoking Google Firebase analytics for monitoring website traffic.
 
-# How to install/use
+# How to install
+1. I use Visual Code Studio as the IDE to modify contents of the codes, including HTML, CSS and JS.
+2. Node.js is required. Install by running `npm install -g npm` in the command line.
+3. Use [Bootstrap](https://getbootstrap.com/docs/5.2/layout/grid/) to generate the grid and css class 
+
+# How to use
+A browser is required like Chrome, Safari, etc..
 Homepage of the website can be accessed by index.html.
 1. The "About" brings user to "About Me" section, which includes my information.  
   - The "Home" button in the left top corner will bring user back to homepage.
