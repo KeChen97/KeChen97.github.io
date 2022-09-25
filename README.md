@@ -13,7 +13,11 @@ Project objective:
 [Link to slide](https://docs.google.com/presentation/d/1hmAwYJ5G1b7iMnEYTZz23uTmj765LbZn9ve_cj-rGyk/edit#slide=id.p)
 
 [Link to demo](https://drive.google.com/file/d/1UdvWWbNM_7vOw8VKxI83YPH6yRDSLGPA/view?usp=sharing)
+
  
+# Design Document
+[DesignDocument.pdf](https://github.com/KeChen97/KeChen97.github.io/files/9641888/DesignDocument.pdf)
+
           
 # Screenshot
 page1 Homepage:
