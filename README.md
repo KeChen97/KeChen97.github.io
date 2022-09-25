@@ -37,6 +37,7 @@ page2 About Me
 1. I use [Visual Code Studio](https://code.visualstudio.com/) as the IDE to modify contents of the codes, including HTML, CSS and JS.
 2. Node.js is required. Install by running `npm install -g npm` in the command line.
 3. Use [Bootstrap](https://getbootstrap.com/docs/5.2/layout/grid/) to generate the grid and css class 
+4. Use [Firebase](https://firebase.google.com) to monitor traffic.
 
 # How to use
 A browser is required like Chrome, Safari, etc..
