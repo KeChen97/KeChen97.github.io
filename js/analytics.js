@@ -1,5 +1,8 @@
-import { initializeApp } from "firebase/app";
-import { getAnalytics, logEvent } from "firebase/analytics";
+import { initializeApp } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-app.js";
+import {
+  getAnalytics,
+  logEvent,
+} from "https://www.gstatic.com/firebasejs/9.10.0/firebase-analytics.js";
 
 const firebaseConfig = {
   apiKey: "AIzaSyA-Xb7AzFGmLmdCBQb18Dk2M46KQ2yKcZI",
@@ -15,4 +18,4 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 logEvent(analytics, "visit");
-console.log('firebase log event successed');
+console.log("here");
