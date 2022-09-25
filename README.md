@@ -1,5 +1,5 @@
 # KeChen97.github.io
-project name: Ke Chen's personal website
+Project name: Ke Chen's personal website
 
 Project objective: 
 - This project is for **professional use** when looking for software engineer related internship/ full-time job.
@@ -21,9 +21,10 @@ Project objective:
           
 # Screenshot
 page1 Homepage:
-<img width="1428" alt="Screenshot" src="https://github.com/KeChen97/KeChen97.github.io/blob/main/screenshot.png?raw=true">
+<img width="1428" alt="Screenshot" src="https://github.com/KeChen97/KeChen97.github.io/blob/main/Screenshots/screenshot.png">
 page2 About Me
-<img width="1428" alt="Screenshot" src="https://github.com/KeChen97/KeChen97.github.io/blob/main/screenshot2.png?raw=true">
+<img width="1428" alt="Screenshot" src="https://github.com/KeChen97/KeChen97.github.io/blob/main/Screenshots/screenshot2.png">
+
 
 # Tech Requirements
 A browser like Chrome, Safari, etc..
