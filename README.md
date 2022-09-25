@@ -1,13 +1,17 @@
 # KeChen97.github.io
 project name: Ke Chen's personal website
 
-Project objective: This project is for professional use when looking for software engineer related internship/full-time job. 
-                   It shares my previous experiences, projects and other informations. 
+Project objective: 
+- This project is for **professional use** when looking for software engineer related internship/ full-time job.
+- It's simple but **clear and useful** when I am seeking jobs, without using any template.
+- It shares my previous experiences, projects and other related informations. 
  
 # Author's HomePage
  [Link to homepage](https://kechen97.github.io/index.html)
  
-# Link to video demo
+# Link to slides and demo
+ [Link to slide](https://docs.google.com/presentation/d/1hmAwYJ5G1b7iMnEYTZz23uTmj765LbZn9ve_cj-rGyk/edit#slide=id.p)
+ [Link to video]
  
           
 # Screenshot
@@ -27,12 +31,11 @@ A browser like Chrome, Safari, etc..
 
 # How to install/use
 Homepage of the website can be accessed by index.html.
-1. The "About" brings user to "About Me" section, which includes my information.
-  
-  (a. The "Home" button in the left top corner will bring user back to homepage.
-  b. The "About" brings user to "AboutMe" section.
-  c. The "Experience" brings user to "Experience & Education" section.
-  d. The "Project" brings user to "Project" section.)
+1. The "About" brings user to "About Me" section, which includes my information.  
+  - The "Home" button in the left top corner will bring user back to homepage.
+  - The "About" brings user to "AboutMe" section.
+  - The "Experience" brings user to "Experience & Education" section.
+  - The "Project" brings user to "Project" section.)
   
 2. The "Resume" brings user to my resume.
 3. The "Email" brings user to contact me by sending a email.
